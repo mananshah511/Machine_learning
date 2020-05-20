@@ -1,0 +1,6 @@
+In this section i have done data preprocessing which handles the various tasks which are:
+Handling missing values
+Differ the independent and dependent variables
+Splitting train and test data
+Feature scaling
+Encoding of data etc.
