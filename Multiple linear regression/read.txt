@@ -1,0 +1,2 @@
+In this I have used Multiple linear regression model to try to predict profit and after that applied backward elimination method.
+From Backward elimination i have tried to find which column are usefull and hase major impact on prediction.
