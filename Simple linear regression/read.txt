@@ -1,0 +1,1 @@
+In this model i have used simple linear regression and try to predict salary based on experience give
