@@ -1,0 +1,3 @@
+Here I have used polynomial regression model to predict level of job and salaries.
+I have made comparison based on linear and polynomial model.
+Also used degree=2,3,4 in polynomial model and i got better curve in degree 4.
