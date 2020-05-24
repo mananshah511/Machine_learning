@@ -1,0 +1,3 @@
+Here i have created svr model and try to predict salary with given position.
+I have made important observation that like many other machine learning model this model dont have in-built feature scaling.
+It gives preety bad result before feature scaling so i have applied feature scaling and got very good prediction
