@@ -1,0 +1,3 @@
+Here i have implemented decision tree model to predict feature values fall in which category.
+With simple visual is seems false by graph.
+I have made points in higher gap between then plotting graph shows good visuals.
