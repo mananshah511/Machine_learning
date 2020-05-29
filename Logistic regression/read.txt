@@ -1,0 +1,1 @@
+Here i have applied logistic regression on social ads data and based on age and salary of person try to predict if he will buy a product or not.
